@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
 title: PortalToMars on GitHub Pages
 description: You think there is a description! Ha! No!
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: vszhub/not-pure-poole
