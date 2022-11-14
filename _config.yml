@@ -4,4 +4,4 @@ description: You think there is a description! Ha! No!
 plugins:
   - jekyll-remote-theme
 
-remote_theme: vszhub/not-pure-poole
+remote_theme: fongandrew/hydeout
